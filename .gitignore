@@ -1,0 +1,9 @@
+# Environment variables
+credentials.json
+main_none.py
+.venv
+.vscode
+__pycache__
+.env
+.env.*
+!.env.example  # Исключение - можно включить пример файла .env
