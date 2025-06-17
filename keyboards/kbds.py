@@ -34,7 +34,7 @@ menu_kb_add.attach(menu_kb)
 def get_main_keyboard():
     """Клавиатура основного меню"""
     builder = ReplyKeyboardBuilder()
-    builder.add(KeyboardButton(text="🔁 Включить переводчик"))
+    #builder.add(KeyboardButton(text="🔁 Включить переводчик"))
     builder.add(KeyboardButton(text="🚫 Выключить переводчик"))
 
     builder.adjust(2)

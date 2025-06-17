@@ -10,15 +10,12 @@ from datetime import datetime
 from database.models import update_last_active
 
 
-
-
 DB_NAME = "data/userdata.db"
 user_private = Router()
 
 @user_private.message(Command("start"))
 async def cmd_start(message: types.Message):
     user = message.from_user
-    
     # Проверяем и добавляем пользователя в БД
     is_new_user = await check_and_create_user(
         telegram_id=user.id,
@@ -26,7 +23,6 @@ async def cmd_start(message: types.Message):
         username=user.username,
         language="ru"  # Язык по умолчанию
     )
-    
     # Обновляем время последней активности
     await update_last_active(user.id)
     

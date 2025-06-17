@@ -7,7 +7,7 @@ import google.generativeai as genai
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 from database.ai_database import AsyncAIDatabase
-from handlers.config import Model, prompt
+from handlers.config import Model, promt
 
 from dotenv import load_dotenv
 from database.models import DB_NAME
@@ -22,7 +22,7 @@ genai.configure(api_key = gemini_api_key)
 
 # Модель и промпт для генеративного AI (Model and prompt for generative AI)
 model = Model
-chat = prompt
+chat = promt
 
 
 class WaitingForMessage(StatesGroup):
@@ -152,7 +152,7 @@ async def bot_answer(message: types.Message, state: FSMContext):
         
         response_message = (
             f"{response_text}\n\n"
-            f"{('ℹ️ Использовано токенов: {used} (Осталось: {remaining})').format(used=tokens_used, remaining=2000 - (await get_remaining_tokens(user_id)))}"
+            f"{('ℹ️ Использовано токенов: {used} ').format(used=tokens_used, remaining=2000 - (await get_remaining_tokens(user_id)))}"
         )
         
         await message.answer(response_message, reply_markup=keyboard)

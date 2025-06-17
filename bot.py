@@ -1,7 +1,7 @@
 import asyncio
 import os
 import logging
-import sys
+
 
 from aiogram import Bot, Dispatcher, types, html
 from aiogram.client.default import DefaultBotProperties
@@ -11,7 +11,6 @@ from dotenv import find_dotenv, load_dotenv
 from middleware.private_chat import IgnoreGroupMiddleware
 
 load_dotenv(find_dotenv())
-
 
 from handlers.user_private import user_private
 from handlers.learn_words import learn_words_router
@@ -44,14 +43,11 @@ dp.include_router(translator_router)
 dp.message.middleware(IgnoreGroupMiddleware())
 db = AsyncAIDatabase()
 
-
-
 logging.basicConfig(
     filename="bot.log",
     level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
-
 async def main():
     await user_data_db()
     await translate_db()

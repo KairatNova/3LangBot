@@ -48,14 +48,14 @@ async def activate_translator_text(message: Message):
         placeholder='На какой язык хотите перевести?'
     )
 
-@translator_router.message(F.text == "🔁 Включить переводчик")
-async def enable_translator(message: types.Message):
-    """Включение переводчика через кнопку"""
-    user_states[message.from_user.id] = True
-    await message.answer(
-        "Выберите язык для перевода:",
-        reply_markup=get_language_keyboard()
-    )
+#@translator_router.message(F.text == "🔁 Включить переводчик")
+#async def enable_translator(message: types.Message):
+#    """Включение переводчика через кнопку"""
+#    user_states[message.from_user.id] = True
+#    await message.answer(
+#        "Выберите язык для перевода:",
+#        reply_markup=get_language_keyboard()
+#    )
 @translator_router.message(F.text == "🚫 Выключить переводчик")
 async def disable_translator(message: types.Message):
     """Выключение переводчика"""
@@ -64,7 +64,7 @@ async def disable_translator(message: types.Message):
         "Переводчик выключен. Нажмите /translate или кнопку для активации.",
         reply_markup=get_main_keyboard()
     )
-'''
+
 @translator_router.message(F.text == "🔙 Назад")
 async def back_to_main(message: types.Message):
     """Возврат в главное меню"""
@@ -72,7 +72,7 @@ async def back_to_main(message: types.Message):
         "Выберите действие:",
         reply_markup=get_main_keyboard()
     )
-'''
+
 
 LANGUAGE_CODES = {v: k for k, v in LANGUAGES.items()}
 

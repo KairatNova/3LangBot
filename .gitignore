@@ -1,7 +1,7 @@
 # Environment variables
 credentials.json
 main_none.py
-.venv
+venv
 .vscode
 __pycache__
 .env

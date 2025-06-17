@@ -7,7 +7,7 @@ class AsyncAIDatabase:
 
     async def ai_init_db(self):
         async with aiosqlite.connect(self.db_path) as db:
-            # Обновленная таблица user_tokens
+            #  user_tokens
             await db.execute("""
                 CREATE TABLE IF NOT EXISTS user_tokens (
                     user_id INTEGER PRIMARY KEY,
@@ -18,7 +18,7 @@ class AsyncAIDatabase:
                 )
             """)
             
-            # Обновленная таблица user_queries
+            #  user_queries
             await db.execute("""
                 CREATE TABLE IF NOT EXISTS user_queries (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,

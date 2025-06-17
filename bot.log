@@ -1,3 +1,114 @@
 2025-06-09 19:08:31,320 - aiogram.dispatcher - INFO - Start polling
 2025-06-09 19:08:31,426 - aiogram.dispatcher - INFO - Run polling for bot @TriLinguaBot id=7930576236 - '3LangBot'
 2025-06-09 19:08:52,686 - aiogram.event - INFO - Update id=414395755 is handled. Duration 469 ms by bot id=7930576236
+2025-06-17 12:35:29,977 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 12:35:30,108 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 13:06:48,836 - aiogram.event - INFO - Update id=835060855 is handled. Duration 500 ms by bot id=7287468501
+2025-06-17 13:06:50,600 - aiogram.event - INFO - Update id=835060856 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:06:58,006 - aiogram.event - INFO - Update id=835060857 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:06:59,574 - aiogram.event - INFO - Update id=835060858 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:07:05,262 - aiogram.event - INFO - Update id=835060859 is handled. Duration 985 ms by bot id=7287468501
+2025-06-17 13:07:44,433 - aiogram.event - INFO - Update id=835060860 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:07:50,602 - aiogram.event - INFO - Update id=835060861 is handled. Duration 4047 ms by bot id=7287468501
+2025-06-17 13:08:01,092 - aiogram.event - INFO - Update id=835060862 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:08:06,010 - aiogram.event - INFO - Update id=835060863 is handled. Duration 1188 ms by bot id=7287468501
+2025-06-17 13:08:12,254 - aiogram.event - INFO - Update id=835060864 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:08:16,848 - aiogram.event - INFO - Update id=835060865 is handled. Duration 1734 ms by bot id=7287468501
+2025-06-17 13:08:23,088 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 13:08:23,355 - aiogram.dispatcher - INFO - Polling stopped for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 13:15:37,062 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 13:15:37,172 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 13:15:43,017 - aiogram.event - INFO - Update id=835060866 is handled. Duration 547 ms by bot id=7287468501
+2025-06-17 13:58:45,163 - aiogram.event - INFO - Update id=835060867 is handled. Duration 328 ms by bot id=7287468501
+2025-06-17 13:58:46,826 - aiogram.event - INFO - Update id=835060868 is handled. Duration 359 ms by bot id=7287468501
+2025-06-17 13:58:54,564 - aiogram.event - INFO - Update id=835060869 is handled. Duration 265 ms by bot id=7287468501
+2025-06-17 13:58:56,716 - aiogram.event - INFO - Update id=835060870 is handled. Duration 1015 ms by bot id=7287468501
+2025-06-17 13:58:58,534 - aiogram.event - INFO - Update id=835060871 is handled. Duration 313 ms by bot id=7287468501
+2025-06-17 13:59:16,249 - aiogram.event - INFO - Update id=835060872 is handled. Duration 406 ms by bot id=7287468501
+2025-06-17 13:59:18,245 - aiogram.event - INFO - Update id=835060873 is handled. Duration 140 ms by bot id=7287468501
+2025-06-17 13:59:19,864 - aiogram.event - INFO - Update id=835060874 is handled. Duration 156 ms by bot id=7287468501
+2025-06-17 13:59:22,393 - aiogram.event - INFO - Update id=835060875 is handled. Duration 218 ms by bot id=7287468501
+2025-06-17 13:59:25,788 - aiogram.event - INFO - Update id=835060876 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 13:59:30,426 - aiogram.event - INFO - Update id=835060877 is handled. Duration 281 ms by bot id=7287468501
+2025-06-17 14:00:38,804 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:00:39,065 - aiogram.dispatcher - INFO - Polling stopped for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:00:47,371 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:00:47,470 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:00:54,020 - aiogram.event - INFO - Update id=835060878 is handled. Duration 343 ms by bot id=7287468501
+2025-06-17 14:00:56,005 - aiogram.event - INFO - Update id=835060879 is handled. Duration 140 ms by bot id=7287468501
+2025-06-17 14:01:00,997 - aiogram.event - INFO - Update id=835060880 is handled. Duration 172 ms by bot id=7287468501
+2025-06-17 14:01:02,220 - aiogram.event - INFO - Update id=835060881 is handled. Duration 202 ms by bot id=7287468501
+2025-06-17 14:01:03,428 - aiogram.event - INFO - Update id=835060882 is handled. Duration 186 ms by bot id=7287468501
+2025-06-17 14:01:05,142 - aiogram.event - INFO - Update id=835060883 is handled. Duration 188 ms by bot id=7287468501
+2025-06-17 14:04:09,569 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:04:09,678 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:04:11,273 - aiogram.event - INFO - Update id=835060885 is handled. Duration 405 ms by bot id=7287468501
+2025-06-17 14:04:13,915 - aiogram.event - INFO - Update id=835060886 is handled. Duration 219 ms by bot id=7287468501
+2025-06-17 14:04:15,872 - aiogram.event - INFO - Update id=835060887 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:04:29,311 - aiogram.event - INFO - Update id=835060888 is handled. Duration 343 ms by bot id=7287468501
+2025-06-17 14:04:33,384 - aiogram.event - INFO - Update id=835060889 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:04:40,805 - aiogram.event - INFO - Update id=835060890 is handled. Duration 139 ms by bot id=7287468501
+2025-06-17 14:04:41,468 - aiogram.event - INFO - Update id=835060891 is handled. Duration 140 ms by bot id=7287468501
+2025-06-17 14:04:42,823 - aiogram.event - INFO - Update id=835060892 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:04:48,880 - aiogram.event - INFO - Update id=835060893 is handled. Duration 235 ms by bot id=7287468501
+2025-06-17 14:04:59,680 - aiogram.event - INFO - Update id=835060894 is handled. Duration 1656 ms by bot id=7287468501
+2025-06-17 14:05:17,578 - aiogram.event - INFO - Update id=835060895 is handled. Duration 452 ms by bot id=7287468501
+2025-06-17 14:06:42,652 - aiogram.event - INFO - Update id=835060896 is handled. Duration 233 ms by bot id=7287468501
+2025-06-17 14:06:58,307 - aiogram.event - INFO - Update id=835060897 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:07:06,287 - aiogram.event - INFO - Update id=835060898 is handled. Duration 250 ms by bot id=7287468501
+2025-06-17 14:07:12,502 - aiogram.event - INFO - Update id=835060899 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:07:16,176 - aiogram.event - INFO - Update id=835060900 is handled. Duration 500 ms by bot id=7287468501
+2025-06-17 14:07:31,516 - aiogram.event - INFO - Update id=835060901 is handled. Duration 406 ms by bot id=7287468501
+2025-06-17 14:09:57,211 - aiogram.event - INFO - Update id=835060902 is handled. Duration 140 ms by bot id=7287468501
+2025-06-17 14:10:08,455 - aiogram.event - INFO - Update id=835060903 is handled. Duration 188 ms by bot id=7287468501
+2025-06-17 14:10:19,033 - aiogram.event - INFO - Update id=835060904 is handled. Duration 1608 ms by bot id=7287468501
+2025-06-17 14:11:37,269 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:11:37,535 - aiogram.dispatcher - INFO - Polling stopped for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:11:45,583 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:11:45,685 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:11:51,180 - aiogram.event - INFO - Update id=835060905 is handled. Duration 0 ms by bot id=7287468501
+2025-06-17 14:11:57,305 - aiogram.event - INFO - Update id=835060906 is handled. Duration 0 ms by bot id=7287468501
+2025-06-17 14:12:04,218 - aiogram.event - INFO - Update id=835060907 is handled. Duration 359 ms by bot id=7287468501
+2025-06-17 14:12:11,971 - aiogram.event - INFO - Update id=835060908 is handled. Duration 1578 ms by bot id=7287468501
+2025-06-17 14:12:26,744 - aiogram.event - INFO - Update id=835060909 is handled. Duration 188 ms by bot id=7287468501
+2025-06-17 14:17:51,015 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:17:51,271 - aiogram.dispatcher - INFO - Polling stopped for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:18:00,696 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:18:00,795 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:18:02,662 - aiogram.event - INFO - Update id=835060910 is handled. Duration 344 ms by bot id=7287468501
+2025-06-17 14:18:07,604 - aiogram.event - INFO - Update id=835060911 is handled. Duration 1734 ms by bot id=7287468501
+2025-06-17 14:18:43,759 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-17 14:18:44,005 - aiogram.dispatcher - INFO - Polling stopped for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:18:51,499 - aiogram.dispatcher - INFO - Start polling
+2025-06-17 14:18:51,597 - aiogram.dispatcher - INFO - Run polling for bot @FourLang_Bot id=7287468501 - 'FourLangBot'
+2025-06-17 14:19:04,434 - aiogram.event - INFO - Update id=835060912 is handled. Duration 0 ms by bot id=7287468501
+2025-06-17 14:19:06,349 - aiogram.event - INFO - Update id=835060913 is handled. Duration 328 ms by bot id=7287468501
+2025-06-17 14:19:13,068 - aiogram.event - INFO - Update id=835060914 is handled. Duration 1625 ms by bot id=7287468501
+2025-06-17 14:19:43,439 - aiogram.event - INFO - Update id=835060915 is handled. Duration 3281 ms by bot id=7287468501
+2025-06-17 14:20:57,865 - aiogram.event - INFO - Update id=835060916 is handled. Duration 156 ms by bot id=7287468501
+2025-06-17 14:22:48,523 - aiogram.event - INFO - Update id=835060917 is handled. Duration 139 ms by bot id=7287468501
+2025-06-17 14:23:15,314 - aiogram.event - INFO - Update id=835060918 is handled. Duration 3234 ms by bot id=7287468501
+2025-06-17 14:23:47,939 - aiogram.event - INFO - Update id=835060919 is handled. Duration 1656 ms by bot id=7287468501
+2025-06-17 14:24:03,312 - aiogram.event - INFO - Update id=835060920 is handled. Duration 6093 ms by bot id=7287468501
+2025-06-17 14:24:27,790 - aiogram.event - INFO - Update id=835060921 is handled. Duration 2453 ms by bot id=7287468501
+2025-06-17 14:24:52,591 - aiogram.event - INFO - Update id=835060922 is handled. Duration 5859 ms by bot id=7287468501
+2025-06-17 14:25:06,199 - aiogram.event - INFO - Update id=835060923 is handled. Duration 1202 ms by bot id=7287468501
+2025-06-17 14:25:39,484 - aiogram.event - INFO - Update id=835060924 is handled. Duration 6718 ms by bot id=7287468501
+2025-06-17 14:25:51,270 - aiogram.event - INFO - Update id=835060925 is handled. Duration 1358 ms by bot id=7287468501
+2025-06-17 14:25:55,251 - aiogram.event - INFO - Update id=835060926 is handled. Duration 1188 ms by bot id=7287468501
+2025-06-17 14:26:05,274 - aiogram.event - INFO - Update id=835060927 is handled. Duration 1250 ms by bot id=7287468501
+2025-06-17 14:26:14,516 - aiogram.event - INFO - Update id=835060928 is handled. Duration 5328 ms by bot id=7287468501
+2025-06-17 14:26:19,262 - aiogram.event - INFO - Update id=835060929 is handled. Duration 2172 ms by bot id=7287468501
+2025-06-17 14:26:30,072 - aiogram.event - INFO - Update id=835060930 is handled. Duration 2297 ms by bot id=7287468501
+2025-06-17 14:26:33,980 - aiogram.event - INFO - Update id=835060931 is handled. Duration 1625 ms by bot id=7287468501
+2025-06-17 14:27:06,846 - aiogram.event - INFO - Update id=835060932 is handled. Duration 2781 ms by bot id=7287468501
+2025-06-17 14:27:11,573 - aiogram.event - INFO - Update id=835060933 is handled. Duration 1561 ms by bot id=7287468501
+2025-06-17 14:27:17,690 - aiogram.event - INFO - Update id=835060934 is handled. Duration 1280 ms by bot id=7287468501
+2025-06-17 14:27:22,393 - aiogram.event - INFO - Update id=835060935 is handled. Duration 1405 ms by bot id=7287468501
+2025-06-17 14:27:29,625 - aiogram.event - INFO - Update id=835060936 is handled. Duration 3250 ms by bot id=7287468501
+2025-06-17 14:27:33,985 - aiogram.event - INFO - Update id=835060937 is handled. Duration 1578 ms by bot id=7287468501
+2025-06-17 14:30:00,909 - aiogram.event - INFO - Update id=835060938 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:30:02,475 - aiogram.event - INFO - Update id=835060939 is handled. Duration 125 ms by bot id=7287468501
+2025-06-17 14:30:09,078 - aiogram.event - INFO - Update id=835060940 is handled. Duration 1093 ms by bot id=7287468501
+2025-06-17 14:30:15,266 - aiogram.event - INFO - Update id=835060941 is handled. Duration 140 ms by bot id=7287468501
+2025-06-17 14:30:23,257 - aiogram.event - INFO - Update id=835060942 is handled. Duration 765 ms by bot id=7287468501
